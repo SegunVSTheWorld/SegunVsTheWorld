@@ -1,4 +1,4 @@
- Hey, I’m @CozyChilo
+ Hey, I’m Segun aka Chilo
  
  I'm teaching myself full stack web development!
  
