@@ -1,4 +1,4 @@
- Hey, I’m Segun aka Chilo
+ Hey, I’m Segun
  
  I'm teaching myself full stack web development!
  
